@@ -21,17 +21,15 @@ const HomeContainer = () => {
         </div>
 
         <p className="text-[2.5rem] lg:text-[4.5rem] font-bold tracking-wide text-headingColor ">
-          The fastest delivery in
+          The fastest delivery at
           <span className="text-orange-600 text-[3rem] lg:text-[5rem]">
-            Your City
+            Your Place
           </span>
         </p>
 
         <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-          maxime rerum minima reiciendis eveniet porro culpa, aperiam
-          praesentium quisquam error quasi deleniti laudantium voluptatum,
-          similique vel sint dolore nobis id!
+          Save your time. Order your food and get it delivered at your own
+          place.
         </p>
 
         <button
