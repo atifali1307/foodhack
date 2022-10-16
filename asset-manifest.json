@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BrahmDevPandey/foodhack/static/css/main.f2ec2362.css",
+    "main.js": "/BrahmDevPandey/foodhack/static/js/main.1f6f8d56.js",
+    "static/media/c3.png": "/BrahmDevPandey/foodhack/static/media/c3.55f83414f33f66456b35.png",
+    "static/media/fi1.png": "/BrahmDevPandey/foodhack/static/media/fi1.3f43e51b6058550d1f44.png",
+    "static/media/logo.png": "/BrahmDevPandey/foodhack/static/media/logo.0f99324454e3c3ccba98.png",
+    "static/media/f1.png": "/BrahmDevPandey/foodhack/static/media/f1.c52686695ee9a5c4cd0d.png",
+    "static/media/i1.png": "/BrahmDevPandey/foodhack/static/media/i1.3d9b129d2c5432c6f1fb.png",
+    "static/media/heroBg.png": "/BrahmDevPandey/foodhack/static/media/heroBg.c43c4862422e70d88698.png",
+    "static/media/delivery.png": "/BrahmDevPandey/foodhack/static/media/delivery.bf9130a0962fbe091abc.png",
+    "static/media/avatar.png": "/BrahmDevPandey/foodhack/static/media/avatar.68cdc4513e601d28a382.png",
+    "static/media/emptyCart.svg": "/BrahmDevPandey/foodhack/static/media/emptyCart.71ad17e692d71caa77c6c9351f84756b.svg",
+    "static/media/NotFound.svg": "/BrahmDevPandey/foodhack/static/media/NotFound.4e90bb93460bfd8d9e2c86b42ef91a4a.svg",
+    "index.html": "/BrahmDevPandey/foodhack/index.html",
+    "main.f2ec2362.css.map": "/BrahmDevPandey/foodhack/static/css/main.f2ec2362.css.map",
+    "main.1f6f8d56.js.map": "/BrahmDevPandey/foodhack/static/js/main.1f6f8d56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ec2362.css",
+    "static/js/main.1f6f8d56.js"
+  ]
+}
