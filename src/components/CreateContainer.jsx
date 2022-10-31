@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 import {
   MdFastfood,
   MdCloudUpload,
@@ -254,7 +255,7 @@ const CreateContainer = () => {
           </div>
 
           <div className="w-full py-2 border-b border-gray-300 flex items-center gap-2 ">
-            <MdAttachMoney className="text-gray-700 text-2xl" />
+            <span className="text-gray-700 text-2xl">Rs.</span>
             <input
               type="text"
               required
@@ -267,6 +268,15 @@ const CreateContainer = () => {
         </div>
 
         <div className="flex items-center w-full">
+          <div className="flex items-center w-full mx-3">
+            <Link
+              to={"/"}
+              type="button"
+              className="ml-0 md:ml-auto w-full md:w-auto border-none outline-none bg-red-700 px-12 py-2 rounded-lg text-lg text-white font-semibold"
+            >
+              Cancel
+            </Link>
+          </div>
           <button
             type="button"
             className="ml-0 md:ml-auto w-full md:w-auto border-none outline-none bg-emerald-500 px-12 py-2 rounded-lg text-lg text-white font-semibold"
